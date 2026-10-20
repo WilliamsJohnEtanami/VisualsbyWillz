@@ -1,0 +1,7 @@
+node_modules/
+.openai/artifact/
+.env
+.env.*
+!.env.example
+
+dist/
